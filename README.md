@@ -1,5 +1,41 @@
 # altarctic-vault
-An attempt to create a tool similar to GitHub Arctic Vault. It however uses standard V40 QRCodes and generates a PDF for easy storage in DMS. The tool provides both the digitization mechanism and Restoration of the original artifact again. It's best suited to work with binary files suc as exe, msi, zip, tar etc.
+The DigiVault<sup>>&reg;</sup> is a OpenSource APL 2.0 licensed application for preserving source code in PDF for long archiving purpose. This application is inspired from GitHub Arctic Vault project. However since 2D Boxing barcode used in Arctic Vault is proprietary IP protected mechanism this application uses simple Version 40 QR Code with Binary Data and Lower error recovery settings to accommodate large bytes in a single QR. The application uses all open source libraries such as PdfPig, ZXing.Net and SkiaSharp to accomplish this. The application also supports restoration mode in which it recovers the original binary artifact from the PDF file. The application has only been tested on Windows<sup>&reg;</sup> but should be able to run on Linux OS as well. The application has been developed using DotNet core 9.0. The rest of the document contains the documented source code of this application.
+
+## THE Project
+Since this is a .NET Core application obviously you need to have .NET Core 9.0 installed on your machine. A Good IDE is also required to quickly navigate across the source code. The application also depends on couple of third party Open Source libraries so its important you add those packages. The libraries used and command to add them in project is as shown below.
+
+
+| Library | Version | Command |
+| ------- | ------- | ------- |
+| ZXing.Net | 0.16.11 | <code>dotnet add package ZXing.Net --verson 0.11.11</code> |
+| ZXing.Net.Bindings.SkiaSharp | 0.16.22 | <code>dotnet add package ZXing.Net.Bindings.SkiaSharp --verson 0.16.22</code> |
+| SkiaSharp | 3.119.2 | <code>dotnet add package SkiaSharp --version 3.119.2</code> |
+| PdfPig | 0.1.14 | <code>dotnet add package PdfPig --version 0.1.14</code> |
+| System.CommandLine | 2.0.7 | <code>dotnet add package System.CommandLine --version 2.0.7</code> |
+
+The source code organization of the application is as outlined below
+
+```mermaid
+treeView-beta
+"DigiVault"
+    "bin"
+    "icons"
+        "safex16.png"
+        "safex24.png"
+        "safex32.png"
+        "safex64.png"
+        "safex128.png"
+        "safex256.png"
+    "Globals.cs"
+    "DigiVault.ico"
+    "BinaryToQrPdf.cs"
+    "DigiVault.sln"
+    "Program.cs"
+    "QrCodeItem.cs"
+    "qrpdf.csproj"
+    "QRPdfToBinary.cs"
+    "VaultDoc.md"
+```
 
 ## Usage
 The tool offers two modes
