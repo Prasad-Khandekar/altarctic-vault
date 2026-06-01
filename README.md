@@ -17,7 +17,7 @@ The source code organization of the application is as outlined below
 
 ```mermaid
 treeView-beta
-"DigiVault"
+"altarctic-vault"
     "bin"
     "src"
         "Globals.cs"
