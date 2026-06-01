@@ -6,7 +6,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <ApplicationIcon>DigiVault.ico</ApplicationIcon>
+    <ApplicationIcon>icons/DigiVault.ico</ApplicationIcon>
     <RootNameSpace>com.freebiz</RootNameSpace>
   </PropertyGroup>
 
