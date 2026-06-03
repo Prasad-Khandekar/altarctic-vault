@@ -7,7 +7,7 @@
 [![GitHub release date](https://img.shields.io/github/release-date/Prasad-Khandekar/altarctic-valut)](#)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Prasad-Khandekar/altarctic-valut)](#)
 [![License](https://img.shields.io/badge/license-Source_Available-blue)](LICENSE.)
-[![Free](https://img.shields.io/badge/free_for_non_commercial_use-brightgreen)](#-license)
+[![Free](https://img.shields.io/badge/free_for_commercial_use-brightgreen)](#-license)
 
 
 ⭐ Star us on GitHub — your support motivates us a lot! 🙏😊
