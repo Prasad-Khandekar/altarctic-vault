@@ -6,7 +6,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/Prasad-Khandekar/altarctic-vault?style=flat)](#)
 [![GitHub release date](https://img.shields.io/github/release-date/Prasad-Khandekar/altarctic-vault?style=flat)](#)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Prasad-Khandekar/altarctic-vault?style=flat)](#)
-[![License](https://img.shields.io/badge/license-Source_Available-blue)](LICENSE.)
+[![License](https://img.shields.io/github/license/Prasad-Khandekar/altarctic-vault?color=blue)](LICENSE.)
 [![Free](https://img.shields.io/badge/free_for_commercial_use-brightgreen)](#-license)
 
 ⭐ Star us on GitHub — your support motivates us a lot! 🙏😊
