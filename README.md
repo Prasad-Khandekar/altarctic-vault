@@ -1,4 +1,24 @@
-# arctic-vault Alternative
+[![Another Arctic Vault](arctic-vault-banner.jpg)](#)
+[![.NET](https://img.shields.io/badge/.NET-8.0%2C%209.0%2C%2010.0-512BD4)](#)
+[![language](https://img.shields.io/badge/language-C%23-239120)](https://learn.microsoft.com/ru-ru/dotnet/csharp/tour-of-csharp/overview)
+[![OS](https://img.shields.io/badge/OS-linux%2C%20windows%2C%20macOS-0078D4)](#)
+[![CPU](https://img.shields.io/badge/CPU-x86%2C%20x64%2C%20ARM%2C%20ARM64-FF8C00)](#)
+[![GitHub release](https://img.shields.io/github/v/release/Prasad-Khandekar/altarctic-valut)](#)
+[![GitHub release date](https://img.shields.io/github/release-date/Prasad-Khandekar/altarctic-valut)](#)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Prasad-Khandekar/altarctic-valut)](#)
+[![License](https://img.shields.io/badge/license-Source_Available-blue)](LICENSE.)
+[![Free](https://img.shields.io/badge/free_for_non_commercial_use-brightgreen)](#-license)
+
+
+⭐ Star us on GitHub — your support motivates us a lot! 🙏😊
+
+[![Share](https://img.shields.io/badge/share-000000?logo=x&logoColor=white)](https://x.com/intent/tweet?text=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/Prasad-Khandekar/altarctic-vault)
+[![Share](https://img.shields.io/badge/share-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Prasad-Khandekar/altarctic-vault)
+[![Share](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Prasad-Khandekar/altarctic-vault)
+[![Share](https://img.shields.io/badge/share-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/submit?title=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/Prasad-Khandekar/altarctic-vault)
+[![Share](https://img.shields.io/badge/share-0088CC?logo=telegram&logoColor=white)](https://t.me/share/url?url=https://github.com/Prasad-Khandekar/altarctic-vault&text=Check%20out%20this%20project%20on%20GitHub)
+
+# Arctic Vault Alternative
 The DigiVault<sup>&reg;</sup> is a OpenSource APL 2.0 licensed application for preserving source code in PDF for long archiving purpose. This application is inspired from GitHub Arctic Vault project. However since 2D Boxing barcode used in Arctic Vault is proprietary IP protected mechanism this application uses simple Version 40 QR Code with Binary Data and Lower error recovery settings to accommodate large bytes in a single QR. The application uses all open source libraries such as PdfPig, ZXing.Net and SkiaSharp to accomplish this. The application also supports restoration mode in which it recovers the original binary artifact from the PDF file. The application has only been tested on Windows<sup>&reg;</sup> but should be able to run on Linux OS as well. The application has been developed using DotNet core 9.0. The rest of the document contains the documented source code of this application.
 
 ## THE Project
