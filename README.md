@@ -3,12 +3,11 @@
 [![language](https://img.shields.io/badge/language-C%23-239120)](https://learn.microsoft.com/ru-ru/dotnet/csharp/tour-of-csharp/overview)
 [![OS](https://img.shields.io/badge/OS-linux%2C%20windows%2C%20macOS-0078D4)](#)
 [![CPU](https://img.shields.io/badge/CPU-x86%2C%20x64%2C%20ARM%2C%20ARM64-FF8C00)](#)
-[![GitHub release](https://img.shields.io/github/v/release/Prasad-Khandekar/altarctic-valut)](#)
-[![GitHub release date](https://img.shields.io/github/release-date/Prasad-Khandekar/altarctic-valut)](#)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Prasad-Khandekar/altarctic-valut)](#)
+[![GitHub release](https://img.shields.io/github/v/release/Prasad-Khandekar/altarctic-vault)](#)
+[![GitHub release date](https://img.shields.io/github/release-date/Prasad-Khandekar/altarctic-vault)](#)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Prasad-Khandekar/altarctic-vault)](#)
 [![License](https://img.shields.io/badge/license-Source_Available-blue)](LICENSE.)
 [![Free](https://img.shields.io/badge/free_for_commercial_use-brightgreen)](#-license)
-
 
 ⭐ Star us on GitHub — your support motivates us a lot! 🙏😊
 
