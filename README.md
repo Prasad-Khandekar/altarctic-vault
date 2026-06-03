@@ -1,4 +1,4 @@
-[![Another Arctic Vault](arctic-vault-banner.jpg)](#)
+[![Another Arctic Vault](arctic-vault-banner.png)](#)
 [![.NET](https://img.shields.io/badge/.NET-8.0%2C%209.0%2C%2010.0-512BD4)](#)
 [![language](https://img.shields.io/badge/language-C%23-239120)](https://learn.microsoft.com/ru-ru/dotnet/csharp/tour-of-csharp/overview)
 [![OS](https://img.shields.io/badge/OS-linux%2C%20windows%2C%20macOS-0078D4)](#)
